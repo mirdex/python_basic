@@ -14,6 +14,7 @@
 #### 課程時間調整公告
 
 6/22因聯成電腦當天有舉辦活動，故課程順延一堂。
+6/25端午節停課一次
 
 #### 課程大綱
 - [1.環境介紹](https://mirdex.github.io/python_basic/1.%20environment.slides.html)
