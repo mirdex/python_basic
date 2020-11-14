@@ -20,8 +20,5 @@
 - [1.環境介紹](https://mirdex.github.io/python_basic/1.%20environment.slides.html)
 - [2.基本概念](https://mirdex.github.io/python_basic/2.%20basic%20concept.slides.html)
 - [3.流程控制](https://mirdex.github.io/python_basic/3.%20流程控制(Q).slides.html)
-- [3.流程控制（附練習題解答）](https://mirdex.github.io/python_basic/3.%20流程控制(A).slides.html)
 - [4.list資料結構](https://mirdex.github.io/python_basic/4.%20資料結構(Q).slides.html)
-- [4.list資料結構（附已練習的習題解答）](https://mirdex.github.io/python_basic/4.%20資料結構(A)_1.slides.html)
 - [5.迴圈](https://mirdex.github.io/python_basic/5.%20迴圈(Q).slides.html)
-- [5.迴圈（附已練習的習題解答）](https://mirdex.github.io/python_basic/5.%20迴圈(A).slides.html)
